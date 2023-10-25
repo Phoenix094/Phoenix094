@@ -38,7 +38,7 @@ Here are some ideas to get you started:
  
  | **Platforms** | **Go Live** |
  | - | - |
- **Portfolio Website** |  [![Portfolio](https://img.shields.io/badge/somesh-portfolio-two.vercel.app-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://somesh-portfolio-two.vercel.app/) [![Portfolio2](https://img.shields.io/badge/react_portfolio.anshulkumaryadav.vercel.app-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://reactportfolio-anshulkumaryadav.vercel.app/)
+ **Portfolio Website** |  [![Portfolio](https://img.shields.io/badge/somesh-portfolio-two.vercel.app?style=for-the-badge&logo=About.me&logoColor=white)](https://somesh-portfolio-two.vercel.app/)
  **LinkedIn** | [![LinkedIn](https://img.shields.io/badge/Somesh_Chavhan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshul-kumar-yadav/)
  **WhatsApp** | ![WhatsApp](https://img.shields.io/badge/8408007269-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
  **Instagram** | [![Instagram](https://img.shields.io/badge/_sc_thakur_-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://www.instagram.com/rishuyadav3602/](https://www.instagram.com/_sc_thakur_/))
